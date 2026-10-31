@@ -6,11 +6,11 @@ A full-stack image-sharing application built with React and Node.js. Users can u
 
 ### Feed Page
 
-![Feed Page](/feed_page.png)
+![Feed Page](./feed_page.png)
 
 ### Create Post Page
 
-![Create Post Page](/create_post_page.png)
+![Create Post Page](./create_post_page.png)
 
 ## Features
 
