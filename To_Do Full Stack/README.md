@@ -10,7 +10,7 @@ A full-stack task management application built with React and Node.js. Users can
 
 ### Tasks Page
 
-![Tasks Page](./tasksPage.png)
+![Tasks Page](./alltasksPage.png)
 
 ## Features
 
